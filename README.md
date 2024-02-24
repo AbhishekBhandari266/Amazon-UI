@@ -1,2 +1,2 @@
 # Amazon-UI
-First website
+First Git Repository.
